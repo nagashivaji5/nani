@@ -25,5 +25,4 @@
     <url>http://192.168.56.101:8081/nexus/content/repositories/maven_release</url>
      </repository>
 </distributionManagement>
-</dependencies>
 </project>
